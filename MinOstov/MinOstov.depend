@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1572021358 source:c:\users\Антон\documents\c++\discret optimization\laba2\minostov\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
+1572099462 source:d:\programming\minostov\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+
